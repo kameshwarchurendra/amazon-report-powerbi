@@ -1,1 +1,1 @@
-amazon report with the help of power bi
+Amazon sell report with the help of power bi
